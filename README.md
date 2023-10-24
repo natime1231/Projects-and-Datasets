@@ -22,4 +22,7 @@ This project focuses on the detection of Structured Query Language (SQL) Injecti
 
 For each project, we have prepared datasets. Some of these datasets have been collected from real-world environments, while others have been sourced from various reputable sources. However, please note that due to the large size of some datasets, we were unable to upload them directly to this GitHub repository. If you require access to a specific dataset, please feel free to reach out, and we'll be happy to provide further details on how to obtain it.
 
+1. https://data.mendeley.com/datasets/v4w72bsts5/1
+2. https://data.mendeley.com/datasets/wgd66f8n6h/1
+
 Thank you for visiting this repository. If you have any questions or would like to collaborate on any of these projects, please don't hesitate to contact me.
